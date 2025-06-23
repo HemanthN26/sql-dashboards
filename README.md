@@ -1,6 +1,6 @@
-# Coffee Beans App
+# 1. Coffee Beans App
 
-coffee-beans-app/
+coffee-beans-app
 
 A command-line app to record and rate coffee beans with different preparation methods using SQLite.
 
