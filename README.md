@@ -5,7 +5,8 @@ coffee-beans-app
 A command-line app to record and rate coffee beans with different preparation methods using SQLite.
 
 ## Features
-- Add and rate coffee beans
-- See all beans
-- Search by name
-- Find best preparation method
+- Add new coffee bean ratings.
+- See all coffee beans and ratings.
+- Filter by bean name.
+- Get the best preparation method for a bean.
+- Visualize method ratings with a bar chart.
