@@ -2,7 +2,7 @@
 
 coffee-beans-app
 
-A command-line app to record and rate coffee beans with different preparation methods using SQLite.
+A command-line app to record and rate coffee beans with different preparation methods using SQLite and Matplotlib.
 
 ## Features
 - Add new coffee bean ratings.
